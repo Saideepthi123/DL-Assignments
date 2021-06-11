@@ -1,5 +1,5 @@
 # DL-Assignments
-Repository for Deep Learning course -Srping 2021
+Repository for Deep Learning course -Spring 2021
 
 - Repository link : https://github.com/Saideepthi123/DL-Assignments
 - Group number : 20
